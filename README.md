@@ -1,3 +1,8 @@
+# Calypso AI
+Calypso AI est une IA très minime basée sur MicroMLP
+
+README original :
+
 ## MicroMLP is a micro artificial neural network multilayer perceptron (principally used on ESP32 and [Pycom](http://www.pycom.io) modules)
 
 ![HC²](hc2.png "HC²")
