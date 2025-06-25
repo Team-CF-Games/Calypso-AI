@@ -1,0 +1,14 @@
+{
+  "input_size": 1,
+  "hidden_layers": [1],
+  "output_size": 1,
+  "weights": [
+    [[0.5]],     // input -> hidden
+    [[1.0]]      // hidden -> output
+  ],
+  "biases": [
+    [0.0],       // hidden layer
+    [0.0]        // output layer
+  ],
+  "activation": "relu"
+}
